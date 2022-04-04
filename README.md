@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=niken1727&color=lightgrey)
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 <!--
 **niken1727/niken1727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
